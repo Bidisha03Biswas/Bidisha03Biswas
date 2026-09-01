@@ -52,30 +52,78 @@ I'm a **Computer Science & Artificial Intelligence Engineering student** passion
 
 ---
 
+# 🎯 Current Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Building-764ba2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Learning-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-Building-764ba2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-Practicing-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Improving-764ba2?style=for-the-badge"/>
+
+</p>
+
+---
+
 # 🛠️ Tech Stack
 
-<div align="center">
-
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css" alt="Languages"/>
 
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI ML"/>
+<p align="center">
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css" />
 
-`Machine Learning` • `Deep Learning` • `NLP` • `Computer Vision` • `Sentiment Analysis` • `Predictive Modeling`
+</p>
 
-### 🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi" alt="Web Backend"/>
+### 🤖 AI / Machine Learning
 
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,supabase,gcp" alt="Databases Cloud"/>
+<p align="center">
 
-### ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vscode" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 
-</div>
+</p>
+
+<p align="center">
+
+`Machine Learning` • `Deep Learning` • `NLP` • `Computer Vision`
+• `Sentiment Analysis` • `Predictive Modeling`
+
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi" />
+
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,supabase" />
+
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,gcp" />
+
+</p>
+
+### 📊 Data & Visualization
+
+<p align="center">
+
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
+• `Power BI` • `Tableau` • `Jupyter`
+
+</p>
 
 ---
 
@@ -83,13 +131,29 @@ I'm a **Computer Science & Artificial Intelligence Engineering student** passion
 
 <div align="center">
 
-<a href="https://github.com/Bidisha03Biswas">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bidisha03Biswas&theme=tokyonight" width="49%" alt="GitHub Stats"/>
-</a>
+<img
+src="https://github-readme-stats.vercel.app/api?username=Bidisha03Biswas&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"
+height="180"
+alt="Bidisha's GitHub Stats"
+/>
 
-<a href="https://github.com/Bidisha03Biswas">
-<img src="https://streak-stats.demolab.com/?user=Bidisha03Biswas&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="Contribution Streak"/>
-</a>
+<img
+src="https://streak-stats.demolab.com/?user=Bidisha03Biswas&theme=tokyonight&hide_border=true"
+height="180"
+alt="Bidisha's Contribution Streak"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bidisha03Biswas&theme=tokyonight"
+height="180"
+alt="Bidisha's GitHub Statistics"
+/>
 
 </div>
 
@@ -129,13 +193,13 @@ alt="Bidisha's GitHub Profile Overview"
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bidisha03Biswas&theme=tokyonight"
-width="49%"
+height="200"
 alt="Top Languages by Repository"
 />
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bidisha03Biswas&theme=tokyonight"
-width="49%"
+height="200"
 alt="Top Languages by Commit"
 />
 
@@ -143,84 +207,121 @@ alt="Top Languages by Commit"
 
 ---
 
-# ⏰ Productive Time
+# ⏰ Coding Activity
 
 <div align="center">
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bidisha03Biswas&theme=tokyonight&utcOffset=5.5"
-width="75%"
-alt="Productive Coding Time"
+height="200"
+alt="Bidisha's Productive Coding Time"
 />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://github.com/Bidisha03Biswas/social-media-content-analyzer">
-<img src="./assets/social-media-content-analyzer.svg" width="100%" alt="Social Media Content Analyzer"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://github.com/Bidisha03Biswas/AI-Mental-Health-Companion-Chatbot">
-<img src="./assets/ai-mental-health-companion.svg" width="100%" alt="AI Mental Health Companion"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-<a href="https://github.com/Bidisha03Biswas/Stock-Trend-Prediction">
-<img src="./assets/stock-trend-prediction.svg" width="100%" alt="Stock Trend Prediction"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://github.com/Bidisha03Biswas/netflix-movies-analysis">
-<img src="./assets/netflix-movies-analysis.svg" width="100%" alt="Netflix Movies Analysis"/>
-</a>
-
-</td>
-</tr>
-</table>
+<img
+src="https://streak-stats.demolab.com/?user=Bidisha03Biswas&theme=tokyonight&hide_border=true&border_radius=10"
+width="70%"
+alt="Bidisha's GitHub Contribution Streak"
+/>
 
 </div>
 
 ---
 
-# 📌 More Projects
+🚀 Featured Projects
+────────────────────────────────────────────
 
-| Project | Description |
-|---|---|
-| ☕ **JAVA_impact** | Java-based learning/project work |
-| 🎓 **student-management** | Student management web project |
-| 🤖 **Study Buddy with AI** | AI-assisted learning and study support |
-| 💬 **Social Media & Sentiment Analysis** | NLP and sentiment analysis project |
+             🤖 AI & Full-Stack
 
-> Explore all repositories on **[my GitHub profile](https://github.com/Bidisha03Biswas?tab=repositories)**.
+┌────────────────────────┐ ┌────────────────────────┐
+│ 📱 Social Media        │ │ 🧠 AI Mental Health   │
+│    Content Analyzer    │ │    Companion           │
+│                        │ │                        │
+│ AI-powered full-stack  │ │ AI conversational     │
+│ application...         │ │ application...         │
+│                        │ │                        │
+│ React FastAPI Python   │ │ Python NLP AI          │
+│                        │ │                        │
+│    [ VIEW PROJECT ]    │ │    [ VIEW PROJECT ]   │
+└────────────────────────┘ └────────────────────────┘
+
+
+             📊 Machine Learning & Data
+
+┌────────────────────────┐ ┌────────────────────────┐
+│ 📈 Stock Trend         │ │ 🎬 Netflix Movies      │
+│    Prediction          │ │    Analysis            │
+│                        │ │                        │
+│ Machine-learning       │ │ Exploratory data       │
+│ project...             │ │ analysis...            │
+│                        │ │                        │
+│ Python Pandas ML       │ │ Python Pandas Seaborn  │
+│                        │ │                        │
+│    [ VIEW PROJECT ]    │ │    [ VIEW PROJECT ]   │
+└────────────────────────┘ └────────────────────────┘
+
+# 🧠 Featured Work
+
+### 🤖 Social Media Content Analyzer
+
+AI-powered full-stack application designed to analyze content and provide useful social-media insights.
+
+**Tech:** `React` `FastAPI` `Python` `AI/ML`
+
+🔗 **[View Repository →](https://github.com/Bidisha03Biswas/social-media-content-analyzer)**
 
 ---
 
-# 🧠 What I Build
+### 🧠 AI Mental Health Companion Chatbot
+
+An AI-based conversational application incorporating sentiment analysis and intelligent response generation.
+
+**Tech:** `Python` `NLP` `Machine Learning` `AI`
+
+🔗 **[View Repository →](https://github.com/Bidisha03Biswas/AI-Mental-Health-Companion-Chatbot)**
+
+---
+
+### 📈 Stock Trend Prediction
+
+Machine-learning project for analyzing historical stock data and identifying potential trend patterns.
+
+**Tech:** `Python` `Pandas` `Machine Learning` `Matplotlib`
+
+🔗 **[View Repository →](https://github.com/Bidisha03Biswas/Stock-Trend-Prediction)**
+
+---
+
+### 🎬 Netflix Movies Analysis
+
+Exploratory data analysis project focused on discovering trends and patterns within Netflix content.
+
+**Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+🔗 **[View Repository →](https://github.com/Bidisha03Biswas/netflix-movies-analysis)**
+
+---
+
+# 🧩 What I Build
 
 <div align="center">
 
-| 🤖 AI | 🧠 ML | 💬 NLP | 📊 Data | 🌐 Full Stack |
-|:---:|:---:|:---:|:---:|:---:|
-| Intelligent Apps | Prediction | Text Analysis | Visualization | APIs & Web Apps |
+| Area | Focus |
+|:---:|:---|
+| 🤖 **Artificial Intelligence** | Intelligent applications & AI-powered tools |
+| 🧠 **Machine Learning** | Prediction, classification & modeling |
+| 💬 **NLP** | Text analysis & sentiment analysis |
+| 👁️ **Computer Vision** | Image & visual-data applications |
+| 📊 **Data Analytics** | EDA, visualization & insights |
+| 🌐 **Full Stack** | Frontend, APIs & Python backends |
+| 🧩 **Problem Solving** | DSA, algorithms & competitive programming |
 
 </div>
 
@@ -230,8 +331,33 @@ alt="Productive Coding Time"
 
 <div align="center">
 
-`Advanced DSA` • `GATE CS` • `Machine Learning` • `Deep Learning`
-• `Natural Language Processing` • `Data Analytics` • `Backend Development`
+`Advanced DSA` • `Machine Learning` • `Deep Learning`
+• `Natural Language Processing` • `Cloud`
+• `Backend Architecture` • `Data Analytics`
+
+</div>
+
+---
+
+# 🏆 Coding Platforms
+
+<div align="center">
+
+<a href="https://leetcode.com/bidisha03biswas">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://www.codechef.com/users/bidisha_biswas">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+<a href="https://www.hackerrank.com/@bidisha0310bisw1">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<a href="https://www.kaggle.com/bidisha03biswas">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
 
 </div>
 
@@ -241,12 +367,17 @@ alt="Productive Coding Time"
 
 <div align="center">
 
-I'm always happy to discuss **AI/ML, software development, data, projects and new ideas.**
+I'm always open to discussing **AI/ML, software development, data analytics,
+projects, internships and technology.**
 
-<br/>
+<br>
 
 <a href="mailto:bidisha.biswas0310@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://linkedin.com/in/bidishabiswas03">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Bidisha03Biswas">
@@ -259,8 +390,19 @@ I'm always happy to discuss **AI/ML, software development, data, projects and ne
 
 <div align="center">
 
-### 💜 Thanks for visiting!
+### 💙 Thanks for visiting my profile!
 
-**Learn → Build → Break → Debug → Improve → Repeat 🚀**
+⭐ **If you find something interesting, consider starring the repository!**
+
+<br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"
+width="100%"
+alt="Footer"
+/>
+
+</div>
+
 
 </div>
