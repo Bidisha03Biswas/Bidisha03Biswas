@@ -169,12 +169,6 @@ alt="Bidisha's GitHub Statistics"
   alt="Bidisha's GitHub Contribution Activity"
 />
 
-<br>
-
-<p>
-  <b>💜 Building • Learning • Experimenting • Improving</b>
-</p>
-
 </div>
 
 
