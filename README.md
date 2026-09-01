@@ -159,7 +159,7 @@ alt="Bidisha's GitHub Statistics"
 
 ---
 
-## 📊 Contribution Activity
+<!-- ## 📊 Contribution Activity -->
 
 <div align="center">
 
