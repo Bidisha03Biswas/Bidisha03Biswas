@@ -235,37 +235,113 @@ alt="Bidisha's GitHub Contribution Streak"
 
 ---
 
-🚀 Featured Projects
-────────────────────────────────────────────
+# 🚀 Featured Projects
 
-             🤖 AI & Full-Stack
+<div align="center">
 
-┌────────────────────────┐ ┌────────────────────────┐
-│ 📱 Social Media        │ │ 🧠 AI Mental Health   │
-│    Content Analyzer    │ │    Companion           │
-│                        │ │                        │
-│ AI-powered full-stack  │ │ AI conversational     │
-│ application...         │ │ application...         │
-│                        │ │                        │
-│ React FastAPI Python   │ │ Python NLP AI          │
-│                        │ │                        │
-│    [ VIEW PROJECT ]    │ │    [ VIEW PROJECT ]   │
-└────────────────────────┘ └────────────────────────┘
+### 🤖 AI & Full-Stack
 
+<table>
+<tr>
 
-             📊 Machine Learning & Data
+<td width="50%" align="center">
 
-┌────────────────────────┐ ┌────────────────────────┐
-│ 📈 Stock Trend         │ │ 🎬 Netflix Movies      │
-│    Prediction          │ │    Analysis            │
-│                        │ │                        │
-│ Machine-learning       │ │ Exploratory data       │
-│ project...             │ │ analysis...            │
-│                        │ │                        │
-│ Python Pandas ML       │ │ Python Pandas Seaborn  │
-│                        │ │                        │
-│    [ VIEW PROJECT ]    │ │    [ VIEW PROJECT ]   │
-└────────────────────────┘ └────────────────────────┘
+<h3>📱 Social Media Content Analyzer</h3>
+
+<p>
+AI-powered full-stack application for analyzing content
+and generating useful social-media insights.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+<a href="https://github.com/Bidisha03Biswas/social-media-content-analyzer">
+<img src="https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🧠 AI Mental Health Companion</h3>
+
+<p>
+AI-based conversational application incorporating
+sentiment analysis and intelligent response generation.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-764ba2?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-667eea?style=flat-square"/>
+</p>
+
+<a href="https://github.com/Bidisha03Biswas/AI-Mental-Health-Companion-Chatbot">
+<img src="https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 📊 Machine Learning & Data
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>📈 Stock Trend Prediction</h3>
+
+<p>
+Machine-learning project for analyzing historical
+stock data and identifying trend patterns.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-764ba2?style=flat-square"/>
+</p>
+
+<a href="https://github.com/Bidisha03Biswas/Stock-Trend-Prediction">
+<img src="https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🎬 Netflix Movies Analysis</h3>
+
+<p>
+Exploratory data analysis project discovering
+patterns and trends in Netflix content.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+</p>
+
+<a href="https://github.com/Bidisha03Biswas/netflix-movies-analysis">
+<img src="https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 # 🧠 Featured Work
 
