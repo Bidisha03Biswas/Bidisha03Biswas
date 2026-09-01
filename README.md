@@ -159,17 +159,27 @@ alt="Bidisha's GitHub Statistics"
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Bidisha03Biswas&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Bidisha03Biswas&theme=tokyo-night&hide_border=true&area=true"
-width="100%"
-alt="Bidisha's GitHub Contribution Activity"
-/>
+| 🚀 Contributions | 💻 Commits | 🔀 Pull Requests | 📦 Repositories |
+|:---:|:---:|:---:|:---:|
+| **650+** | **120+** | **35+** | **10+** |
 
 </div>
+
+<p align="center">
+  <i>Consistent effort. Continuous learning. Building something new every day.</i>
+</p>
 
 ---
 
