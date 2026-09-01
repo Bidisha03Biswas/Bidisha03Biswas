@@ -164,7 +164,7 @@ alt="Bidisha's GitHub Statistics"
 <div align="center">
 
 <img
-  src="./assets/contributions.dark.svg"
+  src="./assets/contribution-activity.svg"
   width="100%"
   alt="Bidisha's GitHub Contribution Activity"
 />
@@ -177,7 +177,7 @@ alt="Bidisha's GitHub Statistics"
 
 </div>
 
----
+
 ---
 
 # 🧑‍💻 GitHub Overview
