@@ -163,67 +163,11 @@ alt="Bidisha's GitHub Statistics"
 
 <div align="center">
 
-<h3>💜 My GitHub Journey</h3>
-
-<table>
-  <tr>
-    <td>Sep</td>
-    <td>Oct</td>
-    <td>Nov</td>
-    <td>Dec</td>
-    <td>Jan</td>
-    <td>Feb</td>
-    <td>Mar</td>
-    <td>Apr</td>
-    <td>May</td>
-    <td>Jun</td>
-    <td>Jul</td>
-    <td>Aug</td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>⬜</td><td>⬜</td><td>⬜</td><td>🟪</td><td>🟪</td><td>⬜</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>⬜</td><td>⬜</td><td>🟪</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟪</td>
-</tr>
-<tr>
-<td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>🟪</td><td>🟪</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>⬜</td><td>⬜</td><td>🟪</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-<tr>
-<td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
-</tr>
-</table>
-
-<br>
-
-<p>
-  <b>Less</b>
-  ⬜ 🟪 🟣 🟪 💜
-  <b>More</b>
-</p>
-
-<hr>
-
-<p>
-  <b>Building</b> •
-  <b>Learning</b> •
-  <b>Experimenting</b> •
-  <b>Improving</b>
-</p>
+<img
+  src="./assets/contribution-activity.svg"
+  width="100%"
+  alt="Bidisha's GitHub Contribution Activity"
+/>
 
 </div>
 ---
