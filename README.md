@@ -163,22 +163,69 @@ alt="Bidisha's GitHub Statistics"
 
 <div align="center">
 
-### 💜 My GitHub Journey
+<h3>💜 My GitHub Journey</h3>
 
-<img
-  src="https://ghchart.rshah.org/a78bfa/Bidisha03Biswas"
-  alt="Bidisha03Biswas GitHub Contribution Graph"
-  width="100%"
-/>
+<table>
+  <tr>
+    <td>Sep</td>
+    <td>Oct</td>
+    <td>Nov</td>
+    <td>Dec</td>
+    <td>Jan</td>
+    <td>Feb</td>
+    <td>Mar</td>
+    <td>Apr</td>
+    <td>May</td>
+    <td>Jun</td>
+    <td>Jul</td>
+    <td>Aug</td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>⬜</td><td>⬜</td><td>⬜</td><td>🟪</td><td>🟪</td><td>⬜</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>⬜</td><td>⬜</td><td>🟪</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟪</td>
+</tr>
+<tr>
+<td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>🟪</td><td>🟪</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>⬜</td><td>⬜</td><td>🟪</td><td>⬜</td><td>🟪</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+<tr>
+<td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td><td>⬜</td>
+</tr>
+</table>
 
 <br>
 
 <p>
-  <b>Building • Learning • Experimenting • Improving</b>
+  <b>Less</b>
+  ⬜ 🟪 🟣 🟪 💜
+  <b>More</b>
+</p>
+
+<hr>
+
+<p>
+  <b>Building</b> •
+  <b>Learning</b> •
+  <b>Experimenting</b> •
+  <b>Improving</b>
 </p>
 
 </div>
-
 ---
 
 # 🧑‍💻 GitHub Overview
