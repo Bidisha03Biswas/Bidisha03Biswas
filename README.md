@@ -127,37 +127,23 @@ I'm a **Computer Science & Artificial Intelligence Engineering student** passion
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bidisha03Biswas&theme=tokyonight"
-height="180"
-alt="Bidisha's GitHub Statistics"
+  src="https://github-readme-stats.vercel.app/api?username=Bidisha03Biswas&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Bidisha's GitHub Stats"
 />
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bidisha03Biswas&theme=tokyonight"
-height="180"
-alt="Top Languages by Repository"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bidisha03Biswas&theme=tokyonight"
+  height="180"
+  alt="Bidisha's GitHub Statistics"
 />
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bidisha03Biswas&theme=tokyonight"
-width="100%"
-alt="Bidisha's GitHub Profile Overview"
-/>
-
-</div>
-
----
 
 <!-- ## 📊 Contribution Activity -->
 
@@ -222,19 +208,7 @@ alt="Bidisha's Productive Coding Time"
 
 ---
 
-# 🔥 Contribution Streak
 
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=Bidisha03Biswas&theme=tokyonight&hide_border=true&border_radius=10"
-width="70%"
-alt="Bidisha's GitHub Contribution Streak"
-/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
