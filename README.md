@@ -132,15 +132,15 @@ I'm a **Computer Science & Artificial Intelligence Engineering student** passion
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Bidisha03Biswas&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bidisha03Biswas&theme=tokyonight"
 height="180"
-alt="Bidisha's GitHub Stats"
+alt="Bidisha's GitHub Statistics"
 />
 
 <img
-src="https://streak-stats.demolab.com/?user=Bidisha03Biswas&theme=tokyonight&hide_border=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bidisha03Biswas&theme=tokyonight"
 height="180"
-alt="Bidisha's Contribution Streak"
+alt="Top Languages by Repository"
 />
 
 </div>
@@ -150,9 +150,9 @@ alt="Bidisha's Contribution Streak"
 <div align="center">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bidisha03Biswas&theme=tokyonight"
-height="180"
-alt="Bidisha's GitHub Statistics"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bidisha03Biswas&theme=tokyonight"
+width="100%"
+alt="Bidisha's GitHub Profile Overview"
 />
 
 </div>
