@@ -127,15 +127,9 @@ I'm a **Computer Science & Artificial Intelligence Engineering student** passion
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Bidisha03Biswas&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Bidisha's GitHub Stats"
-/>
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bidisha03Biswas&theme=tokyonight"
@@ -144,6 +138,21 @@ I'm a **Computer Science & Artificial Intelligence Engineering student** passion
 />
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bidisha03Biswas&theme=tokyonight"
+  width="100%"
+  alt="Bidisha's GitHub Profile Overview"
+/>
+
+</div>
+
+---
+
 
 <!-- ## 📊 Contribution Activity -->
 
