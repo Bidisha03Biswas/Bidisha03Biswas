@@ -5010,6 +5010,19 @@
             width="15"
             height="15"
             rx="2"
+            fill="#e9d5ff"
+            stroke="#ffffff"
+            stroke-width="1"
+          />
+
+        
+
+          <rect
+            x="1084"
+            y="150"
+            width="15"
+            height="15"
+            rx="2"
             fill="#000000"
             stroke="#ffffff"
             stroke-width="1"
