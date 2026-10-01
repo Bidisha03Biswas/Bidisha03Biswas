@@ -240,6 +240,19 @@
 
           
 
+            <text
+              x="1084"
+              y="133"
+              fill="#cfcfcf"
+              font-family="Arial, Helvetica, sans-serif"
+              font-size="14"
+              font-weight="500"
+            >
+              Oct
+            </text>
+
+          
+
   <text
     x="25"
     y="165"
@@ -5046,6 +5059,19 @@
           <rect
             x="1084"
             y="188"
+            width="15"
+            height="15"
+            rx="2"
+            fill="#000000"
+            stroke="#ffffff"
+            stroke-width="1"
+          />
+
+        
+
+          <rect
+            x="1084"
+            y="207"
             width="15"
             height="15"
             rx="2"
